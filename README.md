@@ -1,4 +1,4 @@
-# aidailybrew-com
+# AI Daily Brew
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aidailybrew-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aidailybrew.com/
+AI Daily Brew delivers a concise, five‑minute AI newsletter each weekday, curating the latest models, tools, and tactics for builders, operators, and founders. The free subscription provides a quick signal‑to‑noise filter, highlighting what’s shipped, what matters, and what to ignore, with links to source receipts and practical insights for AI product development.
+
+**Areas:** AI · Newsletter · Daily · Builders · Technology
+
+## AI Daily Brew on APIs.io
+
+Everything profiled for AI Daily Brew is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aidailybrew-com/](https://apis.io/providers/aidailybrew-com/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aidailybrew Com Domain Security](https://apis.io/security/aidailybrew-com/aidailybrew-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aidailybrew.com/)
+- [Terms of service](https://aidailybrew.com/terms)
+- [Privacy policy](https://aidailybrew.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aidailybrew-com/](https://apis.io/providers/aidailybrew-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AI Daily Brew: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aidailybrew-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
